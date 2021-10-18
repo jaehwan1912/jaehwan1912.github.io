@@ -1,5 +1,5 @@
 ---
-title: "Jekyll 적용
+title: "Jekyll 적용"
 date: 2021-10-18 15:48 +0900
 categories: miscellaneous
 ---
