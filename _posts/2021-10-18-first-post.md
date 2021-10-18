@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jekyll 적용"
+categories: miscellaneous
 ---
 
 Github에서 찾아볼 수 있는 템플릿을 그대로 포크해와 _config.yml
