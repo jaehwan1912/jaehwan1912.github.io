@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Jekyll 적용"
 categories: miscellaneous
 ---
